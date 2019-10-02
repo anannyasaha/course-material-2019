@@ -9,3 +9,4 @@
 ## Google Form quizzes
 
 - Unix file system: https://forms.gle/Ru7GR6Ex9AbSmBJG8
+- Shell script: https://forms.gle/RiL6XsWS1UFPniXG7
