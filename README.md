@@ -11,3 +11,4 @@
 
 - Unix file system: https://forms.gle/Ru7GR6Ex9AbSmBJG8
 - Shell script: https://forms.gle/RiL6XsWS1UFPniXG7
+- Basic plots: https://forms.gle/3bLsqPSZSTDdsp5L9
