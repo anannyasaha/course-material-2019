@@ -13,3 +13,4 @@
 - Shell script: https://forms.gle/RiL6XsWS1UFPniXG7
 - Basic plots: https://forms.gle/3bLsqPSZSTDdsp5L9
 - Make and git: https://forms.gle/zs5ccTT9BfPcSEB98
+- Python list and numpy array: https://forms.gle/gebtcwgBLq4oY6Wd6
