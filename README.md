@@ -14,3 +14,4 @@
 - Basic plots: https://forms.gle/3bLsqPSZSTDdsp5L9
 - Make and git: https://forms.gle/zs5ccTT9BfPcSEB98
 - Python list and numpy array: https://forms.gle/gebtcwgBLq4oY6Wd6
+- Simple statistics in numpy: https://forms.gle/8yM7u8R2McvDmmA9A
